@@ -1,11 +1,11 @@
 # Site settings
 title: ADA for TREES
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: > Cardano stake pool # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: @Ada4T
 github_username:
 
 # Build settings
